@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ashutosh-Borkar
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...reactjs
-- 💞️ I’m looking to collaborate on ...
+- 👀 FullStack developer
 - 📫 How to reach me ...ashutoshborkar14@gmail.com
 
 <!---
